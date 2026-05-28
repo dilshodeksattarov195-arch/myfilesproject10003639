@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfonnect",
+        "uuid": 11080755,
+        "checksum": "jxf3gm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
